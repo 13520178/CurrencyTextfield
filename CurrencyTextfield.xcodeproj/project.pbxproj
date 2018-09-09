@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1B4712892145DF6700CDFFD9 /* Github test file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4712882145DF6700CDFFD9 /* Github test file.swift */; };
+		1B4712912145E28500CDFFD9 /* File2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B4712902145E28500CDFFD9 /* File2.swift */; };
 		1BCEF79F21453D3700B9816E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BCEF79E21453D3700B9816E /* AppDelegate.swift */; };
 		1BCEF7A121453D3700B9816E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BCEF7A021453D3700B9816E /* ViewController.swift */; };
 		1BCEF7A421453D3700B9816E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BCEF7A221453D3700B9816E /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		1B4712882145DF6700CDFFD9 /* Github test file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Github test file.swift"; sourceTree = "<group>"; };
+		1B4712902145E28500CDFFD9 /* File2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File2.swift; sourceTree = "<group>"; };
 		1BCEF79B21453D3700B9816E /* CurrencyTextfield.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CurrencyTextfield.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1BCEF79E21453D3700B9816E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1BCEF7A021453D3700B9816E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				1BCEF79E21453D3700B9816E /* AppDelegate.swift */,
 				1BCEF7A021453D3700B9816E /* ViewController.swift */,
 				1B4712882145DF6700CDFFD9 /* Github test file.swift */,
+				1B4712902145E28500CDFFD9 /* File2.swift */,
 				1BCEF7A221453D3700B9816E /* Main.storyboard */,
 				1BCEF7A521453D3900B9816E /* Assets.xcassets */,
 				1BCEF7A721453D3900B9816E /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B4712912145E28500CDFFD9 /* File2.swift in Sources */,
 				1BCEF7A121453D3700B9816E /* ViewController.swift in Sources */,
 				1B4712892145DF6700CDFFD9 /* Github test file.swift in Sources */,
 				1BCEF79F21453D3700B9816E /* AppDelegate.swift in Sources */,
